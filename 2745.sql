@@ -22,3 +22,8 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE people; --
+
+-- Reposta
+
+select people.name, round(people.salary * 0.1, 2) tax from people where people.salary > 3000;
+
