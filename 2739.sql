@@ -20,3 +20,4 @@ VALUES (1, 'Cristian Ghyprievy', 3000.50, '2017-10-19'),
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE loan; --
+select loan.name, cast(extract (day from loan.payday) as INTEGER) as day from loan;
