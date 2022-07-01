@@ -28,7 +28,7 @@ Projeto contendo as respostas dos problemas de SQL do site [Beecrowd](https://ww
 - [x] 2623
 - [x] 2624
 - [x] 2625
-- [x] 2727
+- [x] 2737
 - [x] 2738
 - [x] 2739
 - [x] 2740
