@@ -6,6 +6,7 @@ Projeto contendo as respostas dos problemas de SQL do site [Beecrowd](https://ww
 
 ## Questões respondidas
 
+- [x] 2602
 - [x] 2603
 - [x] 2604
 - [x] 2605
